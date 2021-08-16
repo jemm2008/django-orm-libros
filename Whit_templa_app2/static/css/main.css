@@ -1,0 +1,30 @@
+td {
+    border: 1px solid black;
+    width: 70px;
+  }
+
+#InputDescripcion1 {
+  height: 150px;
+}
+
+.th-wider{
+  width: 250px;
+}
+
+.th-wider2{
+  width: 130px;
+}
+
+.view{
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  background-color: rgb(44, 149, 76);
+}
+
+.del{
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  background-color: rgb(248, 79, 79);
+}
